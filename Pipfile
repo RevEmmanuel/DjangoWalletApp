@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 django = "*"
 python-dotenv = "*"
+psycopg2-binary = "*"
+djoser = "*"
+djangorestframework = "*"
+django-debug-toolbar = "*"
 
 [dev-packages]
 
